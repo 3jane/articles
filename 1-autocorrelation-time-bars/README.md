@@ -1,8 +1,8 @@
 ![3Jane Capital Logo](../3jane-logo-full.png)
 
-[Other articles](https://github.com/3jane/articles/)
-
 # Autocorrelation of returns in major cryptocurrency markets
+
+[Other articles](https://github.com/3jane/articles/)
 
 This article comes with the following to ensure complete reproducibility:
 
