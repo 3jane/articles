@@ -1,4 +1,4 @@
-![3Jane Capital Logo](./3jane-logo-full.png)
+<img src="3jane-logo-full.png" alt="3Jane Capital Logo" width=366/>
 
 # Articles
 
