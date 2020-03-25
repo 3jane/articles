@@ -1,4 +1,4 @@
-
+---
 <img src="3jane-logo-full.png" alt="3Jane Capital Logo" width=366/>
 
 # Articles
