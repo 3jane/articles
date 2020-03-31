@@ -8,7 +8,7 @@
 ### **Part 1. Exploration of characteristics of various bars in major cryptocurrency markets**
 
 1. Time bars
-    1. Autocorrelation in major cryptocurrency markets. (Upcoming)
+    1. [Autocorrelation in major cryptocurrency markets.](https://arxiv.org/abs/2003.13517)
     2. Long memory in major cryptocurrency markets. (Upcoming)
     3. Statistical characteristics of returns in major cryptocurrency markets. (Upcoming)
 2. Volume bars
